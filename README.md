@@ -1,5 +1,7 @@
 # flutter_tugas
 
+
+implementasi untuk tugas pada pertemuan 3 pada tanggal 6 sept 26 saya membuat aplikasi flutter dasar untung kodingan hanya ada di main.dart
 A new Flutter project.
 
 ## Getting Started
